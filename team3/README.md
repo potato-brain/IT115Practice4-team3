@@ -1,3 +1,2 @@
 # Ryan Deering
 ## Machine Learning
-
